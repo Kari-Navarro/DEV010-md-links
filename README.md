@@ -40,4 +40,5 @@ También se testeo la función getStatus que verifica las llamadas HTTP status c
 
 Se obtuvieron los siguientes resultados:
 ![Test](https://i.ibb.co/cxLrWZN/test.jpg)
+
 **Figura 5.** Los resultados cubren el mínimo de 70% en statements, functions, lines y branches.
